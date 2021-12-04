@@ -1,0 +1,8 @@
+{
+    "cmake.buildDirectory": "${workspaceRoot}/.build/${variant:buildType}",
+    "files.associations": {
+        "string": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp"
+    },
+}
